@@ -1,0 +1,1 @@
+First, download 'e_commerce_website.zip'. Then, unzip 'e_commerce_website.zip'. After that, you will find a folder named 'e_commerce_website'. Open it in the VS Code editor and run the command 'npm run dev' in the terminal.
